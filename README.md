@@ -3,8 +3,8 @@ Created by Kent Pribbernow
 
 A Typora theme that looks and feels like Gitlab's familiar markdown style.
 
-#### If you like this theme, consider donating a few bucks to my Patreon. 
-[Donate here](https://www.patreon.com/kentpribbernow)
+#### If you like this theme, consider donating. 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R51EVX9)
 
 ## Installation instructions
 * Download the zipped project package.
@@ -20,7 +20,3 @@ A Typora theme that looks and feels like Gitlab's familiar markdown style.
 ![Image handling](demo/Screen%20Shot%202020-02-08%20at%209.39.33%20AM.png)
 
 ![Image handling](demo/Screen%20Shot%202020-02-07%20at%209.05.17%20PM.png)
-
-
-
-

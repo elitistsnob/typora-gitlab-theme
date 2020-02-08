@@ -9,7 +9,7 @@ A Typora theme that looks and feels like Gitlab's familiar web interface.
 ### Full support for Gitlab markdown styles
 ![Gitlab markdown](demo/Screen%20Shot%202020-02-07%20at%209.10.25%20PM.png)
 
-![Image handling](demo/Screen%20Shot%202020-02-08%20at%209.39.33%20PM.png)
+![Image handling](demo/Screen%20Shot%202020-02-08%20at%209.39.33%20AM.png)
 
 ![Image handling](demo/Screen%20Shot%202020-02-07%20at%209.05.17%20PM.png)
 

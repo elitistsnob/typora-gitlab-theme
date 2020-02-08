@@ -3,7 +3,12 @@ Created by Kent Pribbernow
 
 A Typora theme that looks and feels like Gitlab's familiar web interface. 
 
-### New file create - splash screen
+## Installation instructions
+* Download the zipped project package.
+* Copy the `gitlab.css` and `gitlab` folder to your Typora theme library.
+* Lauch or restart Typora and choose `Gitlab` from the theme menu.
+
+### Creating a new file - splash screen
 ![Blank documemnt](demo/Screen%20Shot%202020-02-07%20at%209.06.14%20PM.png)
 
 ### Full support for Gitlab markdown styles

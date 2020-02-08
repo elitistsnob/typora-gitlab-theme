@@ -3,6 +3,9 @@ Created by Kent Pribbernow
 
 A Typora theme that looks and feels like Gitlab's familiar markdown styles. 
 
+#### If you like theme, consider donating a few bucks the my Patreon. 
+[Donate here](https://www.patreon.com/kentpribbernow)
+
 ## Installation instructions
 * Download the zipped project package.
 * Copy the `gitlab.css` and `gitlab` folder to your Typora theme library.

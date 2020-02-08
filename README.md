@@ -3,7 +3,7 @@ Created by Kent Pribbernow
 
 A Typora theme that looks and feels like Gitlab's familiar markdown styles. 
 
-#### If you like this theme, consider donating a few bucks the my Patreon. 
+#### If you like this theme, consider donating a few bucks to my Patreon. 
 [Donate here](https://www.patreon.com/kentpribbernow)
 
 ## Installation instructions

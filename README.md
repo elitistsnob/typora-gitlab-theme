@@ -6,7 +6,6 @@ A Typora theme that looks and feels like Gitlab's familiar markdown style.
 ![Latest Release Version](https://img.shields.io/github/v/release/elitistsnob/typora-gitlab-theme)
 ![Latest Release Date](https://img.shields.io/github/release-date/elitistsnob/typora-gitlab-theme)
 ![Download Count](https://img.shields.io/github/downloads/elitistsnob/typora-gitlab-theme/total)
-![Download Count](https://img.shields.io/github/downloads/elitistsnob/typora-gitlab-theme/total)
 
 #### If you like this theme, consider donating. 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R51EVX9)
